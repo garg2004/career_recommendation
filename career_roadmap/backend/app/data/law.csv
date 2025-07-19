@@ -1,0 +1,161 @@
+rank, institute name, location, type, fees(approx)
+1,National Law School of India University,"Bengaluru, Karnataka",NLU,?3.25 � ?3.75 Lakh/year
+2,National Law University,New Delhi,NLU,?1.8 � ?2 Lakh/year
+3,Nalsar University of Law,"Hyderabad, Telangana",NLU,?2.8 � ?3.2 Lakh/year
+4,The West Bengal National University of Juridical Sciences(WBNUJS),"Kolkata ,West Bengal",NLU,?2.5 � ?3 Lakh/year
+5,Symbiosis Law School,"Pune ,Maharashtra",Deemed,?3 � ?4 Lakh/year
+6,Jamia Millia Islamia,New Delhi,Central University ,"?10,400 � ?15,600/year "
+7,Indian Institute of Technology Kharagpur,"Kharagpur, West Bengal",Govt.,2.80 Lakh/year
+8,Gujarat National Law University,"Gandhinagar, Gujarat",NLU,?2.6�3.2?L/year
+9,Siksha `O` Anusandhan,"Bhubaneswar,Odisha",Deemed,7.50 Lakh/year   
+10,Babasaheb Bhimrao Ambedkar University,"Lucknow,Uttar Pradesh",Central University ,2.50 Lakh/year   
+11,Kalinga Institute of Industrial Technology,"Bhubaneswar,Odisha",Deemed,?3.5 � ?4.5 Lakh/year
+12,Aligarh Muslim University,"Aligarh,Uttar Pradesh",Central University ,1.10 Lakh/year
+13,Saveetha Institute of Medical and Technical Sciences,"Chennai,Tamil Nadu",Deemed ,12.50 Lakh/year
+14,Shanmugha Arts Science Technology and Research Academy,"Thanjavur,Tamil Nadu",Deemed ,6.10 Lakh/year
+15,Christ University,"Bengaluru,Karnataka",Deemed ,1.35 Lakh/year
+16,Dr. B. R. Ambedkar College of Law,"Visakhapatnam,Andhra Pradesh",State Government ,3.25 Lakh/year
+17,Guru Gobind Singh Indraprastha University,New Delhi, State University ,8.50 Lakh/year
+18,Alliance University,"Bengaluru,Karnataka",Private,2.75 Lakh/year
+19,Lovely Professional University,"Phagwara,Punjab",Private,?1.6 � ?2.4 Lakh/year
+20,Dr. Ram Manohar Lohiya National Law University,"Lucknow,Uttar Pradesh",NLU,?1.03?L/year
+21,"National Law Institute University, Bhopal","Bhopal,Madhya Pradesh",NLU,?1.8 � ?2.2 Lakh
+22,National University of Study and Research in Law,"Ranchi,Jharkhand",NLU,?2.0 � ?2.4 Lakh 
+23,University of Lucknow,"Lucknow,Uttar Pradesh",Govt.,"?15,000 � ?25,000"
+24,The Rajiv Gandhi National University of Law,"Patiala,Punjab",NLU,?2 � ?2.5 Lakh/year
+25,Banaras Hindu University,"Varanasi,Uttar Pradesh",Central University ," ?20,000 � ?35,000 "
+26,"National Law University, Cuttack","Cuttack,Odisha",NLU,?1.9 � ?2.2 Lakh/year
+27,National Law University and Judicial Academy,"Kamrup,Assam",NLU,?1.8 � ?2.2 Lakh
+28,University of Petroleum and Energy Studies (UPES),"Dehradun,Uttarakhand",Private,?3.5 � ?4.5 Lakh/year
+29,"Manipal University, Jaipur","Jaipur,Rajasthan",Private, ?2.0 � ?2.5 Lakh
+30,Army Institute of Law,"Mohali,Punjab",Private, ?1.0 � ?1.2 Lakh
+31,Maharashtra National Law University Mumbai,"Mumbai,Maharashtra",NLU,?2 � ?2.5 Lakh/year
+31,Chanakya National Law University,"Patna,Bihar",NLU,?1.75 � ?2.2 Lakh  
+33,"Amity University Haryana, Gurgaon","Gurugram, Haryana",Private,?3 � ?4 Lakh  
+34,"Maharashtra National Law University, Nagpur","Nagpur,Maharashtra",NLU,?1.8 � ?2.2 Lakh
+35,Indian Law Institute,New Delhi,Deemed ,?1.2 � ?1.5 Lakh  
+36,"ICFAI Foundation for Higher Education, Hyderabad","Hyderabad,Telangana",Private, ?1.8 � ?2.2 Lakh  
+37,Gandhi Institute of Technology and Management,"Visakhapatnam,Andhra Pradesh",Private,?1.5 � ?2 Lakh
+38,National University of Advanced Legal Studies (NUALS),"Kochi,Kerala",NLU, ?1.8 � ?2.5 Lakh 
+39,Damodaram Sanjivayya National Law University,"Visakhapatnam,Andhra Pradesh",NLU, ?1.75 Lakh 
+39,Amity University,"North Twenty Four Parganas,West Bengal",Private,?3 � ?4 Lakh  
+,A.M.P. Law College,"Rajkot, Gujarat",Affiliated to Saurashtra University,
+,Ajeenkya D.Y. Patil University (School of Law),"Pune, Maharashtra",�,
+,Allahabad Degree College (Law),"Prayagraj, Uttar Pradesh",Affiliated to University of Allahabad,
+,Amity University (multiple campuses),"GH/Ranchi/Gwalior/Mumbai, etc.",Private,~?6�12?L depending on campus
+,Anand College of Legal Studies,"Anand, Gujarat",Affiliated to Sardar Patel University,
+,Anand Law College,"Anand, Gujarat",part of SRKSM Trust,
+,Asian Law College,"Noida, Uttar Pradesh",Military - run,
+,Auro University of Hospitality & Management,"Surat, Gujarat",Affiliated to CCS University,
+,Baba Mungipa College of Law,"Pilani, Rajasthan",Affiliated to University of Rajasthan,
+,Bathinda College of Law,"Bathinda, Punjab",Affilated to Punjabi University,
+,Bengal Law College,"Santiniketan, West Bengal",Affiliated to Univ. of Burdwan,~?1.25?L/year 
+,Bikash Bharati Law College,"Amtala, West Bengal",Affiliated to Univ. of Calcutta,~?2.81?L total course fee ? ~?0.56?L/year 
+,Bimal Chandra College of Law,"Kandi, Murshidabad, West Bengal",Affiliated to Univ. of Kalyani,
+,Bidheh Law College,"Madhubani, Bihar",Affiliated to BN Mandal University,
+,Burdwan University Law Department,"Burdwan, West Bengal",Govt.,"?7,130?�??75,000 total"
+,Balurghat Law College,"Balurghat, West Bengal",Private,?1.12?L/year
+,Chotanagpur Law College,"Ranchi, Jharkhand",Affiliated to Ranchi University,?50?k�?1?L 
+,Chaudhary Charan Singh College of Law,"Saifai, Etawah, Uttar Pradesh",Affiliated to CSJM Univ.,?50?k�?1?L 
+,CMR University � School of Legal Studies,"Bengaluru, Karnataka",Private,?7.5?L total for BA LL.B (??1.5?L/year)
+,Dr. Rajendra Prasad National Law University,"Prayagraj, Uttar Pradesh",NLU,Estimated ?1�1.5?L/year (based on NLUs)
+,Damodaram Sanjivayya National Law University (DSNLU),"Sabbavaram (Visakhapatnam), Andhra Pradesh",NLU,~?1.75?L/year (total ?8.72?L)
+,Dharmashastra National Law University (DNLU),"Jabalpur, Madhya Pradesh",NLU,"?1?�?1.5?L/year (est., based on NLUs)"
+,Durgapur Institute of Legal Studies,"Durgapur, West Bengal",Affiliated to Kazi Nazrul University,?50k??1?L/year 
+,Dhubri Law College,"Dhubri, Assam",Affiliated to Gauhati University,Likely ?50k??1?L/year
+,Dispur Law College,"Guwahati (Dispur), Assam",Affiliated to Gauhati University,Likely ?50k??1?L/year
+,Diphu Law College,"Diphu, Assam",Affiliated to Assam University,Likely ?50k??1?L/year
+,Ewing Christian College � Law Department,"Prayagraj, Uttar Pradesh",Autonomous under Univ. of Allahabad,Not publicly listed (likely ?30�60?k*)
+,Elphinstone College / Government Law College,"Mumbai, Maharashtra",Elphinstone (MU affiliate),GLC Mumbai fees ~?25?k�?1?L (govt aided)
+,EIILM University � School of Law,"India (multiple campuses � e.g., Sikkim)",,"?30,000/year (B.A. LL.B, LL.B)"
+,Fairfield Institute of Management and Technology (FIMT � School of Law),"New Delhi, Delhi",Affiliated to GGSIPU,~?1.5?L/year (part of ?7.5?L total)
+NAAC A++,Farook College � Department of Law,"Kozhikode, Kerala",Affiliated to Univ. of Calicut,Govt. aided�estimated ?25?k�?1?L
+,Fakir Mohan University (affiliates law colleges),"Balasore, Odisha",State university,Varies by college (~?40?k�?1?L)
+,Baba Farid Law College,"Faridkot, Punjab",Affiliated to Punjabi University,Not publicly listed; likely ?50?k�?1?L
+,G. J. Advani Law College,"Mumbai, Maharashtra",Affiliated to University of Mumbai,Not publicly listed
+,"Government Law College (GLC), Mumbai","Mumbai, Maharashtra",Affiliated to University of Mumbai,~?25?k�?1?L/year (government-aided)
+,GITAM School of Law,"Visakhapatnam, Andhra Pradesh",Deemed,Not listed (private)�est. ?1�2?L/year
+,Ganjam Law College,"Berhampur, Odisha",Affiliated to Berhampur University,Not listed; likely ?50?k�1?L/year
+,Hidayatullah National Law University (HNLU),"Raipur, Chhattisgarh  ",NLU,?1.75 Lakh/year    
+,Himachal Pradesh National Law University (HPNLU) ,"Shimla, Himachal Pradesh",NLU, ?1 � 1.5 Lakh/year
+,Haldia Law College      ,"Haldia, West Bengal", Affiliated to Vidyasagar University,?50 k � ?1 Lakh/year  
+NAAC A,"University Institute of Legal Studies, HPU","Shimla, Himachal Pradesh",Under Himachal Pradesh University ,?30 k � ?1 Lakh/year  
+,ICFAI Law School,"Hyderabad, Telangana",Private,?1.8 � ?2.2 Lakh/year
+,Indian Law Institute (ILI),New Delhi,Deemed,?1.2 � ?1.5 Lakh/year
+,IMS Law College,"Noida, Uttar Pradesh",Affiliated to CCS University,"?85,000 � ?1.2 Lakh/year"
+,Indore Institute of Law,"Indore, Madhya Pradesh",Private,?1.5 � ?2 Lakh/year
+,Jindal Global Law School (JGLS),"Sonipat, Haryana",Private,?6 � ?8.5 Lakh/year
+,Jagan Nath University � Faculty of Law,"Jaipur, Rajasthan",Private,"?90,000 � ?1.2 Lakh/year"
+,JECRC University � School of Law,"Jaipur, Rajasthan",Private,?1 � ?1.5 Lakh/year
+,Jagannath University � Faculty of Law,"Bahadurgarh, Haryana",Private,"?90,000 � ?1.2 Lakh/year"
+,Karnataka State Law University (KSLU),"Hubballi, Karnataka",State University,"?10,000 � ?20,000/year (Govt.)"
+,Kerala Law Academy Law College,"Thiruvananthapuram, Kerala",Private,"?70,000 � ?90,000/year"
+,KLE Society�s Law College,"Bengaluru, Karnataka",Affiliated to KSLU,?1 � ?1.5 Lakh/year
+,Kristu Jayanti College of Law,"Bengaluru, Karnataka",Affiliated to KSLU,?1 � ?1.2 Lakh/year
+,K.C. Law College,"Mumbai, Maharashtra",Affiliated to University of Mumbai,"?25,000 � ?60,000/year"
+,Lloyd Law College,"Greater Noida, U.P.",Affiliated to CCS University,?1.25 � ?1.75 Lakh/year
+,Law College Dehradun (Uttaranchal Univ.),"Dehradun, Uttarakhand",Constituent of Uttaranchal University,?1.1 � ?1.6 Lakh/year
+,L.J. School of Law,"Ahmedabad, Gujarat",Affiliated to Gujarat University,"?60,000 � ?90,000/year"
+,Lingaraj Law College,"Berhampur, Odisha",Govt.,"?25,000 � ?35,000/year"
+,Lajpat Rai Law College,"Sambalpur, Odisha",Govt. ,"?25,000 � ?40,000/year"
+,Maharashtra National Law University (MNLU),"Mumbai, Maharashtra",NLU,?2 � ?2.5 Lakh/year
+,M.S. Ramaiah College of Law,"Bengaluru, Karnataka",Affiliated to KSLU,?1.25 � ?1.75 Lakh/year
+,Manipal Law School,"Bengaluru, Karnataka",MAHE constituent,?2 � ?3 Lakh/year
+,Mar Gregorios College of Law,"Thiruvananthapuram, Kerala",Affiliated to University of Kerala,"?60,000 � ?80,000/year"
+,Modern Law College,"Pune, Maharashtra",Affiliated to Savitribai Phule Pune University,"?35,000 � ?65,000/year"
+,Mewar Law Institute,"Ghaziabad, Uttar Pradesh",Affiliated to CCS University,"?55,000 � ?75,000/year"
+,"National Law University, Jodhpur (NLUJ)","Jodhpur, Rajasthan",NLU,?2.5 � ?2.8 Lakh/year
+,Nirma University � Institute of Law,"Ahmedabad, Gujarat",Private,?2.1 � ?2.6 Lakh/year
+NAAC A+,"New Law College, Bharati Vidyapeeth Deemed Univ.","Pune, Maharashtra",Deemed,?1.8 � ?2.4 Lakh/year
+,NIMS University � School of Law,"Jaipur, Rajasthan",Private,"?80,000 � ?1.2 Lakh/year"
+,O.P. Jindal Global University � Jindal Global Law School (JGLS),"Sonipat, Haryana",Private ,?6 � ?8.5 Lakh/year
+NAAC A+,Osmania University � University College of Law,"Hyderabad, Telangana",State University,"?10,000 � ?15,000/year"
+,Oriental University � School of Law,"Indore, Madhya Pradesh",Private,"?60,000 � ?90,000/year"
+,Om Sterling Global University � Dept. of Legal Studies,"Hisar, Haryana",Private,"?80,000 � ?1.2 Lakh/year"
+NAAC A++,Punjab University � Department of Laws,Chandigarh, Govt. ,"?6,000 � ?10,000/year"
+,Pune University � New Law College,"Pune, Maharashtra",Savitribai Phule Pune Univ.,"?35,000 � ?60,000/year"
+,PES University � School of Law,"Bengaluru, Karnataka",Private,?1.8 � ?2.2 Lakh/year
+,Presidency University � School of Law,"Bengaluru, Karnataka",Private,?1.5 � ?2.25 Lakh/year
+,Patna Law College (Patna University),"Patna, Bihar",Govt.,"?5,000 � ?10,000/year"
+,Panjab University Regional Centre,"Ludhiana, Punjab",Regional Centre of PU,"?6,000 � ?10,000/year"
+,Parul Institute of Law,"Vadodara, Gujarat",Parul University,?1 � ?1.5 Lakh/year
+,Prestige Institute of Management and Research � Dept. of Law,"Indore, Madhya Pradesh",Private,"?80,000 � ?1.2 Lakh/year"
+,Quantum University � School of Law,"Roorkee, Uttarakhand",Private,"?80,000 � ?1.2 Lakh/year"
+,Rajiv Gandhi National University of Law (RGNUL),"Patiala, Punjab",,?2 � ?2.5 Lakh/year
+,Ramaiah College of Law,"Bengaluru, Karnataka","Affiliated to KSLU, BCI-approved",?1.2 � ?1.75 Lakh/year
+,Rajasthan University � University Law College,"Jaipur, Rajasthan",State University,"?10,000 � ?15,000/year"
+,Reva University � School of Legal Studies,"Bengaluru, Karnataka",Private,?1.8 � ?2.5 Lakh/year
+,RNB Global University � Faculty of Law,"Bikaner, Rajasthan",Private ,"?70,000 � ?1.1 Lakh/year"
+,Raffles University � School of Law,"Neemrana, Rajasthan",Private ,?1.2 � ?1.6 Lakh/year
+,Rayat Bahra University � School of Law,"Mohali, Punjab",Private ,"?80,000 � ?1.2 Lakh/year"
+,Sikkim Government Law College,"Gangtok, Sikkim",Govt. College,"?5,000 � ?10,000/year"
+NAAC A+,"School of Law, Christ University","Bengaluru, Karnataka",Deemed,?1.9 � ?2.3 Lakh/year
+,"School of Law, Sharda University","Greater Noida, U.P.",Private ,?1.5 � ?2 Lakh/year
+,"School of Law, SRM University","Chennai, Tamil Nadu",Private ,?1.75 � ?2.25 Lakh/year
+NAAC A++,"School of Law, SASTRA University","Thanjavur, Tamil Nadu",Deemed ,?1 � ?1.2 Lakh/year
+,SAGE University � Faculty of Law,"Indore, Madhya Pradesh",Private ,"?70,000 � ?1 Lakh/year"
+NAAC A+,"School of Legal Studies, Cochin University (CUSAT)","Kochi, Kerala",Govt. ,"?15,000 � ?30,000/year"
+,Saveetha School of Law,"Chennai, Tamil Nadu",Deemed ,?2 � ?2.5 Lakh/year
+,Tamil Nadu National Law University (TNNLU),"Tiruchirappalli, Tamil Nadu",NLU,?1.8 � ?2 Lakh/year
+NAAC A,Tezpur University � School of Legal Studies,"Tezpur, Assam",Central University,"?25,000 � ?40,000/year"
+,Tamil Nadu Dr. Ambedkar Law University (TNDALU),"Chennai, Tamil Nadu",State University,"?15,000 � ?30,000/year"
+,Tilak Maharashtra Vidyapeeth � Faculty of Law,"Pune, Maharashtra",Deemed ,"?35,000 � ?60,000/year"
+,T.M. Bhagalpur University � Law Department,"Bhagalpur, Bihar",State University,"?10,000 � ?20,000/year"
+,Techno India University � School of Law,"Kolkata, West Bengal",Private,"?90,000 � ?1.2 Lakh/year"
+,TERI School of Advanced Studies � Legal Studies Dept.,New Delhi,Deemed ,?1.5 � ?2 Lakh/year
+NAAC A+,University of Delhi � Faculty of Law,New Delhi, Govt. ,"?5,000 � ?10,000/year"
+,University of Mumbai � Department of Law,"Mumbai, Maharashtra",State University,"?5,000 � ?15,000/year"
+NAAC A,University of Calcutta � Dept. of Law,"Kolkata, West Bengal",State University,"?2,000 � ?6,000/year"
+NAAC A++,University Institute of Legal Studies (Panjab Univ.),Chandigarh, Govt. ,"?8,000 � ?12,000/year"
+,Uttaranchal University � Law College Dehradun,"Dehradun, Uttarakhand",Private ,?1.1 � ?1.6 Lakh/year
+,Utkal University � M.S. Law College,"Bhubaneswar, Odisha",State University,"?20,000 � ?40,000/year"
+NAAC A++,"VIT School of Law, VIT University","Chennai, Tamil Nadu",Deemed ,?1.8 � ?2.5 Lakh/year
+,Vivekananda Institute of Professional Studies (VIPS),New Delhi,"Affiliated to GGSIPU, BCI-approved","?85,000 � ?1.25 Lakh/year"
+,Vaikunta Baliga College of Law,"Udupi, Karnataka",Affiliated to Karnataka State Law University,"?30,000 � ?50,000/year"
+,Visva-Bharati University � Palli Samgathana Vibhaga,"Santiniketan, West Bengal",Central,"?5,000 � ?10,000/year"
+,VM Salgaocar College of Law,"Panaji, Goa",Affiliated to Goa University,"?60,000 � ?80,000/year"
+,"VELS Institute of Science, Technology & Advanced Studies","Chennai, Tamil Nadu",Deemed,?1.2 � ?1.8 Lakh/year
+,Wisdom School of Management � School of Law,"Lucknow, Uttar Pradesh",Private,"?70,000 � ?90,000/year"
+,Western India Institute of Law,"Rajkot, Gujarat",Affiliated to Saurashtra University,"?30,000 � ?50,000/year"
+,Yashwantrao Chavan Law College,"Pune, Maharashtra",Affiliated to Savitribai Phule Pune University,"?25,000 � ?45,000/year"
+,Yashwantrao Chavan Maharashtra Open University (YCMOU) � Law Programs (Distance/UG),"Nashik, Maharashtra",State Open University,"?15,000 � ?25,000/year (Distance)"

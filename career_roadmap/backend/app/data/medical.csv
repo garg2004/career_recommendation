@@ -1,0 +1,494 @@
+si.no, entrance exams, location, institute name, college name, type, year of inspection of college, fees(approx)
+1,MBBS,Andhra Pradesh,"All India Institute of Medical Sciences, Mangalagiri, Vijayawada","Statutory Autonomous, AIIMS(New Delhi)",Govt.,2018,125
+2,MBBS,Andhra Pradesh,"Alluri Sitaram Raju Academy of Medical Sciences, Eluru",Dr. YSR University of Health Sciences,Trust,2000,250
+3,MBBS,Andhra Pradesh,"GITAM Institute of Medical Sciences and Research, Visakhapatnam","Gandhi Institute of Technology and Management (GITAM University) Deemed, Visakhapatnam",Private,2015,150
+4,MBBS,Andhra Pradesh,"Government Medical College, Ananthapuram",Dr. YSR University of Health Sciences,Govt.,2000,200
+5,MBBS,Andhra Pradesh,"Government Medical College, Eluru",Dr. YSR University of Health Sciences,Govt.,2023,150
+6,MBBS,Andhra Pradesh,"Government Medical College, Kadapa",Dr. YSR University of Health Sciences,Govt.,2006,175
+7,MBBS,Andhra Pradesh,"Government Medical College, Machilipatnam",Dr. YSR University of Health Sciences,Govt.,2023,150
+8,MBBS,Andhra Pradesh,"Government Medical College, Nandyal",Dr. YSR University of Health Sciences,Govt.,2023,150
+9,MBBS,Andhra Pradesh,"Government Medical College, Ongole (Previously known as Rajiv Gandhi Institute of Medical Sciences, Ongole,)",Dr. YSR University of Health Sciences,Govt.,2011,120
+10,MBBS,Andhra Pradesh,"Government Medical College, Paderu",Dr. YSR University of Health Sciences,Govt.,2024,50
+11,MBBS,Andhra Pradesh,"Government Medical College, Rajamahendravaram",Dr. YSR University of Health Sciences,Govt.,2023,150
+12,MBBS,Andhra Pradesh,"Government Medical College, Vizianagaram",Dr. YSR University of Health Sciences,Govt.,2023,150
+13,MBBS,Andhra Pradesh,"Government Siddhartha Medical College, Vijaywada",Dr. YSR University of Health Sciences,Govt.,1980,175
+14,MBBS,Andhra Pradesh,"Great Eastern Medical School and Hospital,Srikakulam",Dr. YSR University of Health Sciences,Trust,2010,150
+15,MBBS,Andhra Pradesh,"GSL Medical College, Rajahmundry",Dr. YSR University of Health Sciences,Trust,2002,250
+16,MBBS,Andhra Pradesh,"Guntur Medical College, Guntur",Dr. YSR University of Health Sciences,Govt.,1946,250
+17,MBBS,Andhra Pradesh,"Katuri Medical College, Guntur",Dr. YSR University of Health Sciences,Trust,2002,150
+18,MBBS,Andhra Pradesh,"Konaseema Institute of Medical Sciences & Research Foundation, Amalapuram",Dr. YSR University of Health Sciences,Trust,2005,200
+19,MBBS,Andhra Pradesh,"Kurnool Medical College, Kurnool",Dr. YSR University of Health Sciences,Govt.,1957,250
+20,MBBS,Andhra Pradesh,"Maharajah Institute of Medical Sciences, Vizianagaram",Dr. YSR University of Health Sciences,Trust,2002,200
+21,MBBS,Andhra Pradesh,"Narayana Medical College, Nellore",Dr. YSR University of Health Sciences,Trust,2000,250
+22,MBBS,Andhra Pradesh,"Nimra Institute of Medical Sciences, Krishna Dist., A.P.",Dr. YSR University of Health Sciences,Society,2016,150
+23,MBBS,Andhra Pradesh,"NRI Institute of Medical Sciences, Visakhapatnam",Dr. YSR University of Health Sciences,Trust,2012,150
+24,MBBS,Andhra Pradesh,"NRI Medical College, Guntur",Dr. YSR University of Health Sciences,Trust,2003,200
+25,MBBS,Andhra Pradesh,"P E S Institute Of Medical Sciences and Research, Kuppam",Dr. YSR University of Health Sciences,Trust,2001,150
+26,MBBS,Andhra Pradesh,"Rajiv Gandhi Institute of Medical Sciences, Srikakulam",Dr. YSR University of Health Sciences,Govt.,2008,200
+27,MBBS,Andhra Pradesh,"Rangaraya Medical College, Kakinada",Dr. YSR University of Health Sciences,Govt.,1958,250
+28,MBBS,Andhra Pradesh,"Santhiram Medical College, Nandyal",Dr. YSR University of Health Sciences,Trust,2005,150
+29,MBBS,Andhra Pradesh,"Sri Balaji Medical College, Hospital and Research Institute, Chittoor",Dr. YSR University of Health Sciences,Trust,,150
+30,MBBS,Andhra Pradesh,"SVIMS - Sri Padmavathi Medical College for Women, Alipiri Road, Tirupati","Sri Venkateswara Institute of Medical Sciences (SVIMS), Tirupati",Govt.,2014,175
+31,MBBS,Andhra Pradesh,"S V Medical College, Tirupati",Dr. YSR University of Health Sciences,Govt.,1960,240
+32,MBBS,Andhra Pradesh,"Viswabharathi Medical College, Kurnool",Dr. YSR University of Health Sciences,Society,2014,250
+33,MBBS,Arunachal Pradesh,"Tomo Riba Institute of Health & Medical Sciences, Naharlagun",Rajiv Gandhi University,Govt.,2018,100
+34,MBBS,Assam,"All India Institute of Medical Sciences, Guwahati","Statutory Autonomous, AIIMS (Guwahati)",Govt.,,50
+35,MBBS,Assam,"Assam Medial College, Dibrugarh",Srimanta Shankardeva University of Health Sciences,Govt.,1947,200
+36,MBBS,Assam,"Dhubri Medical College, Dhubri",Srimanta Shankardeva University of Health Sciences,Govt.,,100
+37,MBBS,Assam,"Diphu Medical College & Hospital, Diphu, Assam",Srimanta Shankardeva University of Health Sciences,Govt.,2020,100
+38,MBBS,Assam,"Fakhruddin Ali Ahmed Medical College, Barpeta, Assam",Srimanta Shankardeva University of Health Sciences,Govt-Society,2012,125
+39,MBBS,Assam,"Gauhati Medical College, Guwahati",Srimanta Shankardeva University of Health Sciences,Govt.,1960,200
+40,MBBS,Assam,"Jorhat Medical College & Hospital , Jorhat",Srimanta Shankardeva University of Health Sciences,Govt.,2010,125
+41,MBBS,Assam,Kokrajhar Medical College,Srimanta Shankardeva University of Health Sciences,Govt.,2023,100
+42,MBBS,Assam,Lakhimpur Medical College,Srimanta Shankardeva University of Health Sciences,Govt.,2021,100
+43,MBBS,Assam,Nagaon Medical College,Srimanta Shankardeva University of Health Sciences,Govt.,2023,100
+44,MBBS,Assam,"Nalbari Medical College, Nalbari",Srimanta Shankardeva University of Health Sciences,Govt.,2023,100
+45,MBBS,Assam,"Silchar Medical College, Silchar",Srimanta Shankardeva University of Health Sciences,Govt.,1968,125
+46,MBBS,Assam,"Tezpur Medical College & Hospital, Tezpur",Srimanta Shankardeva University of Health Sciences,Govt.,2014,125
+47,MBBS,Assam,Tinsukia Medical College,Srimanta Shankardeva University of Health Sciences,Govt.,2024,100
+48,MBBS,Bihar,"All India Institute of Medical Sciences, Patna","Statutory Autonomous, AIIMS(New Delhi)",Govt.,2012,125
+49,MBBS,Bihar,"Anugrah Narayan Magadh Medical College, Gaya","Aryabhatta Knowledge University, Patna",Govt.,1970,120
+50,MBBS,Bihar,"Bhagwan Mahavir Institute of Medical Sciences, Pawapuri (Formely known as Vardhman Institute of Medical Sciences, Pawapuri)","Aryabhatta Knowledge University, Patna",Govt.,2013,120
+51,MBBS,Bihar,"Darbhanga Medical College, Lehriasarai","Aryabhatta Knowledge University, Patna",Govt.,1946,120
+52,MBBS,Bihar,"Employees State Insurance Corporation Medical College,Patna","Aryabhatta Knowledge University, Patna",Govt.,2021,100
+53,MBBS,Bihar,"Government Medical College, Bettiah","Aryabhatta Knowledge University, Patna",Govt.,2013,120
+54,MBBS,Bihar,"Government Medical College, Purnea","Aryabhatta Knowledge University, Patna",Govt.,2023,100
+55,MBBS,Bihar,"Himalaya Medical College and Hospital, Patna",Bihar University of Health Sciences,Trust,2024,100
+56,MBBS,Bihar,"Indira Gandhi Institute of Medical Sciences,Sheikhpura, Patna","Indira Gandhi Instt of Medical Sciences (Deemed University), Patna",Govt.,2011,150
+57,MBBS,Bihar,"Jannayak Karpoori Thakur Medical College & Hospital, Madhepura, Bihar","Aryabhatta Knowledge University, Patna",Govt.,2020,100
+58,MBBS,Bihar,"Jawaharlal Nehru Medical College, Bhagalpur","Aryabhatta Knowledge University, Patna",Govt.,1971,120
+59,MBBS,Bihar,"Katihar Medical College, Katihar","Al-Karim University, Katihar",Trust,1987,150
+60,MBBS,Bihar,"Lord Buddha Koshi Medical College and Hospital, Saharsa",B.N. Mandal University,Trust,2019,150
+61,MBBS,Bihar,"Madhubani Medical College, Madhubani","Aryabhatta Knowledge University, Patna",Trust,2019,150
+62,MBBS,Bihar,"Mata Gujri Memorial Medical College, Kishanganj","Mata Gujri University, Bihar",Trust,1990,150
+63,MBBS,Bihar,"Nalanda Medical College, Patna","Aryabhatta Knowledge University, Patna",Govt.,1970,150
+64,MBBS,Bihar,"Narayan Medical College & Hospital, Sasaram",Gopal Narayan Singh University,Trust,2008,250
+65,MBBS,Bihar,"Netaji Subhas Medical College & Hospital, Amhara, Bihta, Patna","Aryabhatta Knowledge University, Patna",Society,2020,100
+66,MBBS,Bihar,"Patna Medical College, Patna","Aryabhatta Knowledge University, Patna",Govt.,1925,200
+67,MBBS,Bihar,Radha Devi Jageshwari Memorial Medical College and Hospital,"Aryabhatta Knowledge University, Patna",Society,2021,150
+68,MBBS,Bihar,Shree Narayan Medical Institute and Hospital,"Bhupendra Narayan Mandal University, Madhepura",Trust,2021,150
+69,MBBS,Bihar,"Shri Krishna Medical College, Muzzafarpur","Aryabhatta Knowledge University, Patna",Govt.,1970,120
+70,MBBS,Chandigarh,"Government Medical College, Chandigarh",Punjab University,Govt.,1991,150
+71,MBBS,Chattisgarh,"Abhishek I Mishra Memorial Medical College & Research, Bhiali","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Private,2024,100
+72,MBBS,Chattisgarh,"All India Institute of Medical Sciences, Raipur","Statutory Autonomous, AIIMS(Raipur)",Govt.,2012,125
+73,MBBS,Chattisgarh,"Chandulal Chandrakar Memorial Govt. Medical College, Durg","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,2013,200
+74,MBBS,Chattisgarh,"Chhattisgarh Institute of Medical Sciences, Bilaspur","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,2001,150
+75,MBBS,Chattisgarh,"Government Medical College (Bharat Ratna Shri Atal Bihari Vajpyee Memorial Med. Col.), Rajnandgaon","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,2014,125
+76,MBBS,Chattisgarh,"Government Medical College, Kanker","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,2021,125
+77,MBBS,Chattisgarh,"Government Medical College, Korba","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,,125
+78,MBBS,Chattisgarh,"Government Medical College, Mahasamund","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,2022,125
+79,MBBS,Chattisgarh,"Late Shri Baliram Kashyap Memorial NDMC Govt.,Medical College, Jagdalpur","Pt.Ravishankar Shukla University (Prev.Ravishankar University),Raipur",Govt.,2006,125
+80,MBBS,Chattisgarh,"Late Shri Lakhi Ram Agrawal Memorial Govt. Medical College, Raigarh","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,2013,100
+81,MBBS,Chattisgarh,"Pt. J N M Medical College, Raipur","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,1963,230
+82,MBBS,Chattisgarh,"Raipur Institute of Medical Sciences (RIMS), Raipur","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Society,2016,150
+83,MBBS,Chattisgarh,"Rajmata Shrimati Devendra kumari Singhdeo Government Medical College, Surguja ( C.G.)","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Govt.,2016,125
+84,MBBS,Chattisgarh,Shri Balaji Institute of Medical Science,Pandit Deendayal Upadhyay Memorial Health Science & Ayush University of Chattisgarh,Society,2021,150
+85,MBBS,Chattisgarh,Shri Rawatpura Sarkar Institute of Medical Sciences and Research,Pandit Deendayal Upadhyay Memorial Health Science & Ayush University of Chattisgarh,Trust,2024,150
+86,MBBS,Chattisgarh,"Shri Shankaracharya Institute of Medical Sciences, Bhilai","Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",Society,2016,150
+87,MBBS,Dadra and Nagar Haveli,"NAMO Medical Education and Research Institute, Silvassa",Veer Narmad South Gujarat University,Govt.,2019,177
+88,MBBS,Delhi,"All India Institute of Medical Sciences, New Delhi","Statutory Autonomous, AIIMS(New Delhi)",Govt.,1956,132
+89,MBBS,Delhi,"Army College of Medical Sciences, New Delhi",Guru Gobind Singh Indraprastha University,Trust,2008,100
+90,MBBS,Delhi,"Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi",Guru Gobind Singh Indraprastha University,Govt.,2008,100
+91,MBBS,Delhi,"Dr. Baba Saheb Ambedkar Medical College, Rohini, Delhi",Guru Gobind Singh Indraprastha University,Govt.,2016,125
+92,MBBS,Delhi,"Hamdard Institute of Medical Sciences & Research, New Delhi",University of Jamia Hamdard (Hamdard University),Society,2012,150
+93,MBBS,Delhi,"Lady Hardinge Medical College, New Delhi",Delhi University,Govt.,1916,240
+94,MBBS,Delhi,"Maulana Azad Medical College, New Delhi",Delhi University,Govt.,1958,250
+95,MBBS,Delhi,"North Delhi Muncipal Corporation Medical College, Delhi",Guru Gobind Singh Indraprastha University,Govt.,2013,60
+96,MBBS,Delhi,"University College of Medical Sciences & GTB Hospital, New Delhi",Delhi University,Govt.,1971,170
+97,MBBS,Delhi,"Vardhman Mahavir Medical College & Safdarjung Hospital, Delhi",Guru Gobind Singh Indraprastha University,Govt.,2002,170
+98,MBBS,Goa,"Goa Medical College, Panaji",Goa University,Govt.,1963,200
+99,MBBS,Gujarat,"All India Institute of Medical Sciences, Rajkot","Statutory Autonomous, AIIMS (Rajkot)",Govt.,,50
+100,MBBS,Gujarat,Ananya College of Medicine & Research,Gujarat University,Trust,2023,150
+101,MBBS,Gujarat,"Banas Medical College and Research Institute, Palanpur, Gujarat","Hemchandracharya North Gujarat University,Patan",Trust,2018,200
+102,MBBS,Gujarat,Bhagyoday Medical College,"Hemchandracharya North Gujarat University,Patan",Trust,2024,100
+103,MBBS,Gujarat,"B J Medical College, Ahmedabad",Gujarat University,Govt.,1946,250
+104,MBBS,Gujarat,"CU Shah Medical College, Surendra Nagar",Saurashtra University,Trust,2000,100
+105,MBBS,Gujarat,Dr.Kiran C.Patel Medical College and Research Institute,Veer Narmad South Gujarat University,Trust,2020,200
+106,MBBS,Gujarat,"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat University,Trust,2017,250
+107,MBBS,Gujarat,"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad","Dharmsinh Desai University, Nadiad",Private,2019,150
+108,MBBS,Gujarat,"GCS Medical College, Ahmedabad",Gujarat University,Trust,2011,150
+109,MBBS,Gujarat,"GMERS Medical College, Dharpur Patan","Hemchandracharya North Gujarat University,Patan",Govt-Society,2012,200
+110,MBBS,Gujarat,"GMERS Medical College, Gandhinagar",Gujarat University,Govt-Society,2012,200
+111,MBBS,Gujarat,"GMERS Medical College, Gotri, Vadodara",MS University of Baroda,Govt-Society,2011,200
+112,MBBS,Gujarat,"GMERS Medical College, Hadiyol, Himmatnagar","Hemchandracharya North Gujarat University,Patan",Govt-Society,2015,200
+113,MBBS,Gujarat,"GMERS Medical College, Junagadh","Bhakta Kavi Narsing Mehta University, Bikha Roa, Khadia",Govt-Society,2015,200
+114,MBBS,Gujarat,"GMERS Medical College, Navsari",Veer Narmad South Gujarat University,Govt.,2022,100
+115,MBBS,Gujarat,"GMERS Medical College, Rajpipla",Veer Narmad South Gujarat University,Govt.,2022,100
+116,MBBS,Gujarat,"GMERS Medical College, Sola, Ahmedabad",Gujarat University,Govt-Society,2011,200
+117,MBBS,Gujarat,"GMERS Medical College, Vadnagar, Mehsana","Hemchandracharya North Gujarat University,Patan",Govt-Society,2017,200
+118,MBBS,Gujarat,"GMERS Medical College, Valsad",Veer Narmad South Gujarat University,Govt-Society,2012,200
+119,MBBS,Gujarat,"Government Medical College, Bhavnagar",Maharaja Krishnakumarsinghji Bhavnagar University,Govt.,1995,200
+120,MBBS,Gujarat,"Government Medical College, Morbi","Saurashtra University, Rajkot",Govt.,2022,100
+121,MBBS,Gujarat,"Government Medical College, Panchmahal Godhra","Shri Govind Guru University, Godhara",Govt.,2022,100
+122,MBBS,Gujarat,"Government Medical College, Porbandar","Bhakta Kavi Narsing Mehta University, Bikha Roa, Khadia",Govt.,2022,100
+123,MBBS,Gujarat,"Government Medical College, Surat",Veer Narmad South Gujarat University,Govt.,1964,250
+124,MBBS,Gujarat,"Gujarat Adani Institute of Medical Sciences, Bhuj","KSKV Kachchh University, Bhuj",Trust,2009,150
+125,MBBS,Gujarat,"Kiran Medical College, Surat",Veer Narmad South Gujarat University,Trust,2023,150
+126,MBBS,Gujarat,"Medical College, Baroda",MS University of Baroda,Govt.,1949,250
+127,MBBS,Gujarat,"MP Shah Medical College,Jamnagar",Saurashtra University,Govt.,1955,250
+128,MBBS,Gujarat,"Narendra Modi Medical College, Ahmedabad (Formely known as Ahmedabad Muncipal Coporation Medical Edu. Trust Medical College)",Gujarat University,Govt.,2009,200
+129,MBBS,Gujarat,"Nootan Medical College and Research Centre, Mehsana",Sankalchand Patel University,Trust,2019,150
+130,MBBS,Gujarat,"Pandit Deendayal Upadhyay Medical College, Rajkot",Saurashtra University,Govt.,1995,200
+131,MBBS,Gujarat,"Parul Institute of Medical Sciences & Research, Vadodara","Parul University, Vadodara",Private,2016,150
+132,MBBS,Gujarat,"Pramukhswami Medical College, Karmsad",Bhaikaka University,Trust,1987,150
+133,MBBS,Gujarat,"SAL Institute of Medical Sciences, Ahmedabad",Gujarat University,Trust,2023,150
+134,MBBS,Gujarat,"SBKS Medical Instt. & Research Centre, Vadodra","Sumandeep Vidyapeeth University (Deemed), Vadodra",Trust,2002,250
+135,MBBS,Gujarat,"Shantabaa Medical College, Amreli",Saurashtra University,Trust,2019,200
+136,MBBS,Gujarat,"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat University,Govt.,1963,250
+137,MBBS,Gujarat,"Surat Municipal Institute of Medical Education & Research, Surat",Veer Narmad South Gujarat University,Govt.,1999,250
+138,MBBS,Gujarat,Swaminayaran Institute of Medical Sciences & Research,Swaminayaran University,Trust,2023,150
+139,MBBS,Gujarat,"Zydus Medical College & Hospital, Dahod","Shri Govind Guru University, Godhara",Trust,2018,200
+140,MBBS,Haryana,"Adesh Medical College and Hospital, Shahabad, Kurukshetra, Haryana","PT. B.D. Sharma University of Health Sciences, Rohtak",Society,2017,150
+141,MBBS,Haryana,"Al Falah School of Medical Sciences & Research Centre, Faridabad",Al-Falah University,Private,2019,150
+142,MBBS,Haryana,"Amrita School of Medicine, Faridabad","Amrita Vishwa Vidyapeetham University (Deemed), Coimbatore",Trust,2023,150
+143,MBBS,Haryana,"BPS Government Medical College for Women, Sonepat","PT. B.D. Sharma University of Health Sciences, Rohtak",Govt.,2012,120
+144,MBBS,Haryana,"Employees State Insurance Corporation Medical College, Faridabad","PT. B.D. Sharma University of Health Sciences, Rohtak",Govt.,2015,125
+145,MBBS,Haryana,"Faculty of Medicine and Health Sciences, Gurgaon (Formarly SGGST Medical College & R Centre,Gurgaon)","SGT University, Gurugram",Trust,2010,150
+146,MBBS,Haryana,"Kalpana Chawala Govt. Medical College, Karnal, Haryana","PT. B.D. Sharma University of Health Sciences, Rohtak",Govt.,2017,120
+147,MBBS,Haryana,"Maharaja Agrasen Medical College, Agroha","PT. B.D. Sharma University of Health Sciences, Rohtak",Trust,2002,100
+148,MBBS,Haryana,"Maharishi Markandeshwar College of Medical Sciences & Research, Sadopur","Maharishi Marakandeshwar University (Deemed), Ambala",Private,2023,150
+149,MBBS,Haryana,"Maharishi Markandeshwar Institute Of Medical Sciences & Research, Mullana, Ambala","Maharishi Marakandeshwar University (Deemed), Ambala",Trust,2003,200
+150,MBBS,Haryana,"N.C. Medical College & Hospital, Panipat","PT. B.D. Sharma University of Health Sciences, Rohtak",Trust,2016,150
+151,MBBS,Haryana,"Pt. B D Sharma Postgraduate Institute of Medical Sciences, Rohtak (Haryana)","PT. B.D. Sharma University of Health Sciences, Rohtak",Govt.,1960,250
+152,MBBS,Haryana,"Shaheed Hasan Khan Mewati Government Medical College, Nalhar","PT. B.D. Sharma University of Health Sciences, Rohtak",Govt.,2013,120
+153,MBBS,Haryana,"Shri Atal Bihari Vajpayee Government Medical College, Faridabad","PT. B.D. Sharma University of Health Sciences, Rohtak",Govt.,,100
+154,MBBS,Haryana,"World College of Medical Sciences & Researc, Jhajjar, Haryana","PT. B.D. Sharma University of Health Sciences, Rohtak",Trust,2016,150
+155,MBBS,Himachal Pradesh,"All India Institute of Medical Sciences, Bilaspur","Statutory Autonomous, AIIMS (Bilaspur)",Govt.,,50
+156,MBBS,Himachal Pradesh,"Dr. Radhakrishnan Government Medical College, Hamirpur, H.P",Himachal Pradesh University,Govt.,2018,120
+157,MBBS,Himachal Pradesh,"Dr. Rajendar Prasad Government Medical College, Tanda, H.P",Himachal Pradesh University,Govt.,1996,120
+158,MBBS,Himachal Pradesh,"Government Medical College, Nahan, Sirmour H.P.",Himachal Pradesh University,Govt.,2016,120
+159,MBBS,Himachal Pradesh,"Indira Gandhi Medical College, Shimla",Himachal Pradesh University,Govt.,1966,120
+160,MBBS,Himachal Pradesh,"Maharishi Markandeshwar Medical College & Hospital, Solan","Maharishi Marakandeshwar University, Kumarhatti, Solan",Trust,2013,150
+161,MBBS,Himachal Pradesh,"Pt. Jawahar Lal Nehru Government Medical College, Chamba",Himachal Pradesh University,Govt.,2017,120
+162,MBBS,Himachal Pradesh,"Shri Lal Bahadur Shastri Government Medical College, Mandi, HP",Himachal Pradesh University,Govt.,2017,120
+163,MBBS,Jammu & Kashmir,"Acharya Shri Chander College of Medical Sciences, Jammu",Jammu University,Trust,1995,100
+164,MBBS,Jammu & Kashmir,"All India Institute of Medical Sciences, Vijaypur","Statutory Autonomous, AIIMS (Vijaypur)",Govt.,,62
+165,MBBS,Jammu & Kashmir,"Government Medical College, Anantnag",Kashmir University,Govt.,2019,100
+166,MBBS,Jammu & Kashmir,"Government Medical College, Baramulla",Kashmir University,Govt.,2019,100
+167,MBBS,Jammu & Kashmir,"Government Medical College, Handwara",University of Kashmir,Govt.,2023,100
+168,MBBS,Jammu & Kashmir,"Government Medical College, Jammu",Jammu University,Govt.,1972,180
+169,MBBS,Jammu & Kashmir,"Government Medical College, Kathua",Jammu University,Govt.,2019,100
+170,MBBS,Jammu & Kashmir,"Government Medical College, Rajouri, J&K",Jammu University,Govt.,2019,100
+171,MBBS,Jammu & Kashmir,"Government Medical College, Srinagar",Kashmir University,Govt.,1959,180
+172,MBBS,Jammu & Kashmir,"Government Medical College, Udhampur",University of Jammu,Govt.,2023,100
+173,MBBS,Jammu & Kashmir,"Govt. Medical College, Doda, Kashmir",Kashmir University,Govt.,2020,100
+174,MBBS,Jammu & Kashmir,"Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar","Deemed University, Jammu & Kashmir",Govt.,1988,125
+175,MBBS,Jharkhand,"All India Institute of Medical Sciences, Deoghar","Statutory Autonomous, AIIMS(Deoghar)",Govt.,2019,125
+176,MBBS,Jharkhand,"Dumka Medical College, Dighi Dumka",Sidho Kanhu Murmu University,Govt.,2019,100
+177,MBBS,Jharkhand,"Hazaribagh Medical College, Hazaribagh","Binod Bihati Mahto Koyalanchal University, Dhanbad",Govt.,2019,100
+178,MBBS,Jharkhand,Laxmi Chandravansi Medical College & Hospital,"Ramchandra Chandravansi University, Bishrampur, Palamu",Trust,2021,100
+179,MBBS,Jharkhand,"Manipal Tata Medical College,Baridih Jameshedpur","Manipal University, Manipal",Trust,2020,150
+180,MBBS,Jharkhand,"M G M Medical College, Jamshedpur","Kolhan University, Chaibasa",Govt.,1961,100
+181,MBBS,Jharkhand,"Palamu Medical College, Palamu",Nilamber-Pitamber University,Govt.,2019,100
+182,MBBS,Jharkhand,"Rajendra Institute of Medical Sciences, Ranchi",Ranchi University,Govt.,1960,180
+183,MBBS,Jharkhand,"Shahed Nirmal Mahto Medical College & Hospital, Dhanbad","Binod Bihati Mahto Koyalanchal University, Dhanbad",Govt.,1969,100
+184,MBBS,Karnataka,Adichunchanagiri Institute of Medical Sciences Bellur,Adichunchanagiri University,Trust,1985,250
+185,MBBS,Karnataka,"A J Institute of Medical Sciences & Research Centre, Mangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2002,200
+186,MBBS,Karnataka,"Akash Institute of Medical Sciences & Research Centre, Devanhalli, Bangalore, Karnataka","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2016,150
+187,MBBS,Karnataka,"Al-Ameen Medical College,Bijapur","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1984,150
+188,MBBS,Karnataka,"Bangalore Medical College and Research Institute, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,1955,250
+189,MBBS,Karnataka,"Basaveswara Medical College and Hospital, Chitradurga","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1999,150
+190,MBBS,Karnataka,"Belagavi Institute of Medical Sciences, Belagavi","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2006,150
+191,MBBS,Karnataka,"BGS Global Institute of Medical Sciences, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2013,150
+192,MBBS,Karnataka,BGS Medical College and Hospital,Adichunchanagiri University,Private,2024,150
+193,MBBS,Karnataka,"Bidar Institute of Medical Sciences,Bidar","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2007,150
+194,MBBS,Karnataka,"Chamrajanagar Institute of Medical Sciences, Karnataka","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2016,150
+195,MBBS,Karnataka,Chikkaballapura Institute of Medical Sciences,"Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2021,100
+196,MBBS,Karnataka,"Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,,150
+197,MBBS,Karnataka,Chitradurga Medical College and Research Institute,"Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2023,150
+198,MBBS,Karnataka,"Dr BR Ambedkar Medical College, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1980,150
+199,MBBS,Karnataka,"Dr. Chandramma Dayananda Sagar Instt. of Medical Education & Research, Harohalli, Hubli","Dayananda Sagar University, Bangalore",Trust,2020,150
+200,MBBS,Karnataka,"East Point College of Medical Sciences & Research Centre, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2017,150
+201,MBBS,Karnataka,"Employees State Insurance Corporation Medical College, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2012,150
+202,MBBS,Karnataka,"Employees State Insurance Corporation Medical College, Gulbarga","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2013,150
+203,MBBS,Karnataka,"Father Mullers Medical College, Mangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1999,150
+204,MBBS,Karnataka,"Gadag Institute of Medical Sciences, Mallasamudra, Mulgund Road, Gadag","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2015,150
+205,MBBS,Karnataka,G R Medical College Hospital & Research Centre,"Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2021,150
+206,MBBS,Karnataka,"Gulbarga Institute of Medical Sciences, Gulbarga","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2015,150
+207,MBBS,Karnataka,"Hassan Institute of Medical Sciences, Hassan","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2006,150
+208,MBBS,Karnataka,"Haveri Institute of Medical Sciences, Haveri","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2022,150
+209,MBBS,Karnataka,Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College JGMMMC,"KLE Academy of Higher Education & Research (Deemed), Belgaum",Trust,2021,150
+210,MBBS,Karnataka,"Jawaharlal Nehru Medical College, Belgaum","KLE Academy of Higher Education & Research (Deemed), Belgaum",Trust,1963,200
+211,MBBS,Karnataka,"JJM Medical College, Davangere","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1965,245
+212,MBBS,Karnataka,"JSS Medical College, Mysore","JSS Academy of Higher Education & Research, Mysuru (formerly known as JSS University, Mysore)",Trust,1984,250
+213,MBBS,Karnataka,"Kanachur Institute of Medical Sciences, Mangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2016,200
+214,MBBS,Karnataka,"Karnataka Institute of Medical Sciences, Hubballi","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,1957,200
+215,MBBS,Karnataka,"Karwar Institute of Medical Sciences, Karwar","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2016,150
+216,MBBS,Karnataka,"Kasturba Medical College, Mangalore","Manipal Academy of Higher Education (Deemed University), Manipal",Trust,1955,250
+217,MBBS,Karnataka,"Kasturba Medical College, Manipal","Manipal Academy of Higher Education (Deemed University), Manipal",Trust,1953,250
+218,MBBS,Karnataka,"Kempegowda Institute of Medical Sciences, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1980,250
+219,MBBS,Karnataka,"Khaja Bandanawaz University - Faculty of Medical Sciences, Gulbarga",Khaja Bandanawaz University,Trust,2000,150
+220,MBBS,Karnataka,"Kodagu Institute of Medical Sciences, Kodagu","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2016,150
+221,MBBS,Karnataka,"Koppal Institute of Medical Sciences, Koppal","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2015,150
+222,MBBS,Karnataka,"K S Hegde Medical Academy, Mangalore","Nitte University (Deemed), Mangalore",Trust,1999,250
+223,MBBS,Karnataka,"K V G Medical College, Sullia","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1999,100
+224,MBBS,Karnataka,"Mahadevappa Rampure Medical College, Kalaburagi, Gulbarga","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1963,150
+225,MBBS,Karnataka,"Mandya Institute of Medical Sciences, Mandya","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2006,150
+226,MBBS,Karnataka,"M S Ramaiah Medical College, Bangalore","M.S. Ramaiah University of Applied Sciences, Bangalore.",Trust,1979,150
+227,MBBS,Karnataka,"MVJ Medical College and Research Hospital, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1997,200
+228,MBBS,Karnataka,"Mysore Medical College and Research Instt. (Prev.name Government Medical College), Mysore","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,1924,200
+229,MBBS,Karnataka,"Navodaya Medical College, Raichur","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2002,200
+230,MBBS,Karnataka,PES University Institute of Medical Sciences and Reseach Bangalore,PES University,Private,2024,100
+231,MBBS,Karnataka,"Raichur Institute of Medical Sciences,Raichur","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2007,150
+232,MBBS,Karnataka,"Rajarajeswari Medical College & Hospital, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2005,250
+233,MBBS,Karnataka,"Sambharam Institute of Medical Sciences & Research, Kolar","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2016,
+234,MBBS,Karnataka,"Sapthagiri Institute of Medical Sciences & Research Centre, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2011,250
+235,MBBS,Karnataka,"SDM College of Medical Sciences & Hospital, Sattur, Dharwad","Shri Dharmasthala Manjunatheshwara University, Karnataka",Trust,2003,150
+236,MBBS,Karnataka,"Shimoga Institute of Medical Sciences,Shimoga","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2007,150
+237,MBBS,Karnataka,Shri Atal Bihari Vajpayee Medical College & Research Institute,"Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2019,150
+238,MBBS,Karnataka,"Shri B M Patil Medical College, Hospital & Research Centre, Vijayapura(Bijapur","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1986,200
+239,MBBS,Karnataka,"Shridevi Institute of Medical Sciences & Research Hospital, Tumkur","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2013,150
+240,MBBS,Karnataka,"Siddaganga Medical College and Research Institute, Tumakuru","Rajiv Gandhi University of Health Sciences, Karnataka",Private,,150
+241,MBBS,Karnataka,"S. Nijalingappa Medical College & HSK Hospital & Research Centre, Bagalkot","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2002,250
+242,MBBS,Karnataka,Sri Chamundeshwari Medical College Hospital & Research Institute,"Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2023,150
+243,MBBS,Karnataka,"Sri Devaraj URS Medical College, Kolar","Sri Devaraj Urs Academy of Higher Education and Research (Deemed University), Kolar",Trust,1986,200
+244,MBBS,Karnataka,Sri Madhusudan Sai Institute of Medical Sciences and Research,Sri Sathya Sai University for Human Excellence,Trust,2023,50
+245,MBBS,Karnataka,"Srinivas Institute of Medical Research Centre, Srinivasnagar, mangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2011,200
+246,MBBS,Karnataka,"Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore","Sri Siddhartha Academy of Higher Education, Tumkur",Trust,2019,150
+247,MBBS,Karnataka,"Sri Siddhartha Medical College, Tumkur","Sri Siddhartha Academy of Higher Education, Tumkur",Trust,1988,200
+248,MBBS,Karnataka,SR Patil Medical College and Hospital,"Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2024,100
+249,MBBS,Karnataka,"S S Institute of Medical Sciences& Research Centre, Davangere","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2006,200
+250,MBBS,Karnataka,"St. Johns Medical College, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,1963,150
+251,MBBS,Karnataka,"Subbaiah Institute of Medical Sciences, Shimoga, Karnataka","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2012,200
+252,MBBS,Karnataka,"The Oxford Medical College, Hospital & Research Centre, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Society,2014,200
+253,MBBS,Karnataka,"Vijaynagar Institute of Medical Sciences, Bellary","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,1961,200
+254,MBBS,Karnataka,"Vydehi Institute Of Medical Sciences & Research Centre, Bangalore","Rajiv Gandhi University of Health Sciences, Karnataka",Trust,2002,250
+255,MBBS,Karnataka,"Yadgiri Institute of Medical Sciences, Yadgiri","Rajiv Gandhi University of Health Sciences, Karnataka",Govt.,2022,150
+256,MBBS,Karnataka,"Yenepoya Medical College, Mangalore",Yenepoya University (Deemed Manglore),Trust,1999,250
+257,MBBS,Kerala,"Al-Azhar Medical College and Super Speciality Hospital, Thodupuzha","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2014,150
+258,MBBS,Kerala,"Amala Institute of Medical Sciences, Thrissur","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2002,100
+259,MBBS,Kerala,"Amrita School of Medicine, Elamkara, Kochi","Amrita Vishwa Vidyapeetham University (Deemed), Coimbatore",Trust,2000,150
+260,MBBS,Kerala,"Azeezia Instt of Medical Science,Meeyannoor,Kollam","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2008,100
+261,MBBS,Kerala,"Believers Church Medical College Hospital, Thiruvalla, Kerala","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2016,100
+262,MBBS,Kerala,"Dr. Moopen s Medical College, Wayanad, Kerala","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2013,150
+263,MBBS,Kerala,"Dr. Somervel Memorial CSI Hospital & Medical College, Karakonam, Thiruvananthapuram","Kerala University, Thiruvananthapuram",Trust,2001,150
+264,MBBS,Kerala,"Government Medical College, Ernakulam","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,2000,110
+265,MBBS,Kerala,"Government Medical College, Idukki","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,,100
+266,MBBS,Kerala,"Government Medical College (Institute of Integrated Medical Sciences), Yakkara, Palakkad","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,2014,100
+267,MBBS,Kerala,"Government Medical College, Konni","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,2022,100
+268,MBBS,Kerala,"Government Medical College, Kottayam","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,1960,175
+269,MBBS,Kerala,"Government Medical College, Kozhikode, Calicut",Calicut University,Govt.,1957,250
+270,MBBS,Kerala,"Government Medical College, Manjeri, Malapuram Dist.","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,2013,110
+271,MBBS,Kerala,"Government Medical College, Parippally, Kollam","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,2017,110
+272,MBBS,Kerala,"Government Medical College, Thrissur","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,1981,175
+273,MBBS,Kerala,"Govt. Medical College,Pariyaram, Kannur (Prev. Known as Academy of Medical Sciences)","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,1995,100
+274,MBBS,Kerala,"Jubilee Mission Medical College & Research Institute, Thrissur","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2002,100
+275,MBBS,Kerala,"Kannur Medical College, Kannur","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2006,150
+276,MBBS,Kerala,"Karuna Medical College, Palakkad",Calicut University,Trust,2006,100
+277,MBBS,Kerala,"KMCT Medical College,Kozhikode, Calicut","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2008,250
+278,MBBS,Kerala,"Malabar Medical College, Kozhikode,Calicut","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2010,200
+279,MBBS,Kerala,"Malankara Orthodox Syrian Church Medical College, Kolenchery","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2001,100
+280,MBBS,Kerala,"Medical College, Thiruvananthapuram","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,1951,250
+281,MBBS,Kerala,"M E S Medical College , Perintalmanna Malappuram Distt.Kerala","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2002,150
+282,MBBS,Kerala,"Mount Zion Medical College, Chayalode, Ezhamkulam Adoor, Pathanamthitta","Kerala University of Health Sciences, Thrissur, Kerala",Society,2014,150
+283,MBBS,Kerala,"Palakkad Institute of Medical Sciences, Palakkad Kerala",Kerala University of Health Sciences,Trust,2024,150
+284,MBBS,Kerala,"P K Das Institute of Medical Sciences, Palakkad, Kerala","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2014,200
+285,MBBS,Kerala,"Pushpagiri Institute Of Medical Sciences and Research Centre, Tiruvalla","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2002,100
+286,MBBS,Kerala,"Sree Gokulam Medical College Trust & Research Foundation, Trivandrum","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2005,150
+287,MBBS,Kerala,"Sree Narayana Instt. of Medical Sciences, Chalakka,Ernakulam","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2009,150
+288,MBBS,Kerala,"Sree Uthradom Thiurnal Academy of Medical Sciences,Trivandrum","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2006,150
+289,MBBS,Kerala,"T D Medical College, Alleppey (Allappuzha)","Kerala University of Health Sciences, Thrissur, Kerala",Govt.,1963,175
+290,MBBS,Kerala,"Travancore Medical College, Kollam","Kerala University of Health Sciences, Thrissur, Kerala",Trust,2009,150
+291,MBBS,Madhya Pradesh,"All India Institute of Medical Sciences, Bhopal","Statutory Autonomous, AIIMS(Bhopal)",Govt.,2012,125
+292,MBBS,Madhya Pradesh,"Amaltas Institute of Medical Sciences, Dewas","Amaltas University, Dewas",Society,2016,250
+293,MBBS,Madhya Pradesh,"Bundelkhand Medical College, Sagar","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2009,125
+294,MBBS,Madhya Pradesh,"Chirayu Medical College and Hospital, Bairagarh,Bhopal","Chirayu University, Bhopal (M.P)",Trust,2011,250
+295,MBBS,Madhya Pradesh,"Gajra Raja Medical College, Gwalior",Jiwaji University,Govt.,1946,200
+296,MBBS,Madhya Pradesh,"Gandhi Medical College, Bhopal","Madhya Pradesh Medical Science University, Jabalpur",Govt.,1955,250
+297,MBBS,Madhya Pradesh,"Government Medical College, Chhindwara, MP","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2019,100
+298,MBBS,Madhya Pradesh,"Government Medical College, Datia, MP","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2018,120
+299,MBBS,Madhya Pradesh,"Government Medical College, Khandwa, MP","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2018,120
+300,MBBS,Madhya Pradesh,"Government Medical College, Ratlam","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2018,180
+301,MBBS,Madhya Pradesh,"Government Medical College, Satna","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2023,150
+302,MBBS,Madhya Pradesh,"Government Medical College, Seoni",Madhya Pradesh Medical Science University,Govt.,2024,100
+303,MBBS,Madhya Pradesh,"Government Medical College, Shahdol, MP","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2019,100
+304,MBBS,Madhya Pradesh,"Government Medical College, Shivpuri, MP","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2019,100
+305,MBBS,Madhya Pradesh,"Government Medical College, Vidisha, MP","Madhya Pradesh Medical Science University, Jabalpur",Govt.,2018,180
+306,MBBS,Madhya Pradesh,"Index Medical College Hospital & Research Centre,Indore","Malwanchal University, Indore",Trust,2007,250
+307,MBBS,Madhya Pradesh,"LNCT Medical College & Sewakunj Hospital, Indore","Madhya Pradesh Medical Science University, Jabalpur",Society,2021,150
+308,MBBS,Madhya Pradesh,"L.N. Medical College and Research Centre,Bhopal","LNCT University, Bhopal",Trust,2009,250
+309,MBBS,Madhya Pradesh,"Mahaveer Institute of Medical Sciences & Research, Bhopal","Madhya Pradesh Medical Science University, Jabalpur",Society,2020,150
+310,MBBS,Madhya Pradesh,"M G M Medical College, Indore","Madhya Pradesh Medical Science University, Jabalpur",Govt.,1948,250
+311,MBBS,Madhya Pradesh,"Netaji Subhash Chandra Bose Medical College, Jabalpur","Rani Durgavati Vishwa Vidyalaya, Jabalpur",Govt.,1955,250
+312,MBBS,Madhya Pradesh,"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal","Peoples University, Bhopal",Trust,2005,250
+313,MBBS,Madhya Pradesh,"Ram Krishna College Hospital & Research Centre, Bhopal","Madhya Pradesh Medical Science University, Jabalpur",Trust,2023,150
+314,MBBS,Madhya Pradesh,"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Barkatullah University,Society,2014,150
+315,MBBS,Madhya Pradesh,"Ruxmaniben Deepchand Gardi Medical College, Ujjain","Vikram University, Ujjain",Trust,2001,150
+316,MBBS,Madhya Pradesh,"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences","Madhya Pradesh Medical Science University, Jabalpur",Society,,100
+317,MBBS,Madhya Pradesh,"Shyam Shah Medical College, Rewa","Madhya Pradesh Medical Science University, Jabalpur",Govt.,1963,150
+318,MBBS,Madhya Pradesh,"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Sri Aurobindo University,Trust,2003,250
+319,MBBS,Madhya Pradesh,"Sukh Sagar Medical College & Hospital, Jabalpur","Madhya Pradesh Medical Science University, Jabalpur",Trust,2021,150
+320,MBBS,Madhya Pradesh,Sundarlal Patwa Govt. Medical College,Madhya Pradesh Medical Science University,Govt.,2024,100
+321,MBBS,Madhya Pradesh,Virendra Kumar Sakhlecha Government Medical College,Madhya Pradesh Medical Science University,Govt.,2024,100
+322,MBBS,Maharashtra,"ACPM Medical College, Dhule","Maharashtra University of Health Sciences, Nashik",Trust,1990,100
+323,MBBS,Maharashtra,"All India Institute of Medical Sciences, Nagpur","Statutory Autonomous, AIIMS(New Delhi)",Govt.,2018,125
+324,MBBS,Maharashtra,"Armed Forces Medical College, Pune","Maharashtra University of Health Sciences, Nashik",Govt.,1962,150
+325,MBBS,Maharashtra,"Ashwini Rural Medical College, Hospital & Research Centre, Solapur","Maharashtra University of Health Sciences, Nashik",Trust,2012,100
+326,MBBS,Maharashtra,"Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli","Bharati Vidyapeeth University (Deemed), Pune",Trust,2005,150
+327,MBBS,Maharashtra,"Bharati Vidyapeeth University Medical College, Pune","Bharati Vidyapeeth University (Deemed), Pune",Trust,1989,150
+328,MBBS,Maharashtra,"Bharatratna Atal Bihari Vajpayee Medical College, Pune","Maharashtra University of Health Sciences, Nashik",Trust,2022,100
+329,MBBS,Maharashtra,"B. J. Govt. Medical College, Pune","Maharashtra University of Health Sciences, Nashik",Govt.,1964,250
+330,MBBS,Maharashtra,"B.K.L. Walawalkar Rural Medical College, Ratnagiri","Maharashtra University of Health Sciences, Nashik",Trust,2015,150
+331,MBBS,Maharashtra,"Datta Meghe Medical College, Nagpur",Datta Meghe Institute of Higher Education & Research (Declared as Deemed to be University),Private,2020,150
+332,MBBS,Maharashtra,"Dr. D Y Patil Medical College, Hospital and Research Centre, Pimpri, Pune","Dr. D Y Patil University (Deemed), Pimpri, Pune",Trust,1995,250
+333,MBBS,Maharashtra,"Dr. D Y Patil Medical College, Kolhapur","D.Y. Patil Education Society (Deemed University), Kolhapur",Trust,1989,150
+334,MBBS,Maharashtra,Dr. N Y Tasgaonkar Institute of Medical Science,"Maharashtra University of Health Sciences, Nashik",Trust,2021,100
+335,MBBS,Maharashtra,"Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Medical College, Amravati","Maharashtra University of Health Sciences, Nashik",Trust,1984,150
+336,MBBS,Maharashtra,"Dr. Rajendra Gode Medical College, Amravati","Maharashtra University of Health Sciences, Nashik",Private,2023,150
+337,MBBS,Maharashtra,"Dr. Shankarrao Chavan Govt. Medical College, Nanded","Maharashtra University of Health Sciences, Nashik",Govt.,1988,150
+338,MBBS,Maharashtra,"Dr. Ulhas Patil Medical College & Hospital, Jalgaon","Maharashtra University of Health Sciences, Nashik",Trust,2008,200
+339,MBBS,Maharashtra,"Dr Vaishampayan Memorial Medical College, Solapur","Maharashtra University of Health Sciences, Nashik",Govt.,1963,200
+340,MBBS,Maharashtra,"Dr.Vasantrao Pawar Med. Col. Hosp. & Research Centre,Nasik (Prev. NDMVP Samaj Medical College)","Maharashtra University of Health Sciences, Nashik",Trust,1990,120
+341,MBBS,Maharashtra,"Dr. Vithalrao Vikhe Patil Foundations Medical College & Hospital, Ahmednagar","Maharashtra University of Health Sciences, Nashik",Trust,2003,200
+342,MBBS,Maharashtra,"Government Medical College, Akola","Maharashtra University of Health Sciences, Nashik",Govt.,2002,200
+343,MBBS,Maharashtra,"Government Medical College, Alibag","Maharashtra University of Health Sciences, Nashik",Govt.,2021,100
+344,MBBS,Maharashtra,"Government Medical College, Ambernath","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+345,MBBS,Maharashtra,"Government Medical College, Amravati","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+346,MBBS,Maharashtra,"Government Medical college and District Hospital, Ratnagiri","Maharashtra University of Health Sciences, Nashik",Govt.,2023,100
+347,MBBS,Maharashtra,"Government Medical College, Aurangabad","Maharashtra University of Health Sciences, Nashik",Govt.,1956,200
+348,MBBS,Maharashtra,"Government Medical College, Bhandara","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+349,MBBS,Maharashtra,"Government Medical College, Buldhana","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+350,MBBS,Maharashtra,"Government Medical College, Chandrapur","Maharashtra University of Health Sciences, Nashik",Govt.,2015,150
+351,MBBS,Maharashtra,"Government Medical College, Gadchiroli","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+352,MBBS,Maharashtra,"Government Medical College, Gondia","Maharashtra University of Health Sciences, Nashik",Govt.,2016,150
+353,MBBS,Maharashtra,"Government Medical College, Hingoli","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+354,MBBS,Maharashtra,"Government Medical College & Hospital, Baramati","Maharashtra University of Health Sciences, Nashik",Govt.,2019,100
+355,MBBS,Maharashtra,"Government Medical College, Jalgaon","Maharashtra University of Health Sciences, Nashik",Govt.,2018,150
+356,MBBS,Maharashtra,"Government Medical College, Jalna","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+357,MBBS,Maharashtra,"Government Medical College, Latur","Maharashtra University of Health Sciences, Nashik",Govt.,2002,150
+358,MBBS,Maharashtra,"Government Medical College, Miraj","Maharashtra University of Health Sciences, Nashik",Govt.,1962,200
+359,MBBS,Maharashtra,"Government Medical College, Mumbai","Maharashtra University of Health Sciences, Nashik",Govt.,2024,50
+360,MBBS,Maharashtra,"Government Medical College, Nagpur","Maharashtra University of Health Sciences, Nashik",Govt.,1947,250
+361,MBBS,Maharashtra,"Government Medical College, Nandurbar","Maharashtra University of Health Sciences, Nashik",Govt.,2020,100
+362,MBBS,Maharashtra,"Government Medical College, Nashik","Maharashtra University of Health Sciences, Nashik",Govt.,2024,50
+363,MBBS,Maharashtra,"Government Medical College, Osmanabad","Maharashtra University of Health Sciences, Nashik",Govt.,,100
+364,MBBS,Maharashtra,"Government Medical College, Parbhani","Maharashtra University of Health Sciences, Nashik",Govt.,2023,100
+365,MBBS,Maharashtra,"Government Medical College ,Satara","Maharashtra University of Health Sciences, Nashik",Govt.,2021,100
+366,MBBS,Maharashtra,"Government Medical College, Sindhudurg","Maharashtra University of Health Sciences, Nashik",Govt.,2021,100
+367,MBBS,Maharashtra,"Government Medical College, Washim","Maharashtra University of Health Sciences, Nashik",Govt.,2024,100
+368,MBBS,Maharashtra,"Grant Medical College, Mumbai","Maharashtra University of Health Sciences, Nashik",Govt.,1845,250
+369,MBBS,Maharashtra,"H.B.T. Medical College & Dr.R.N. Cooper Municipal General Hospital, Juhu, Mumbai","Maharashtra University of Health Sciences, Nashik",Govt.,2015,200
+370,MBBS,Maharashtra,"Indian Institute of Medical Science & Research, Jalna","Maharashtra University of Health Sciences, Nashik",Trust,2013,150
+371,MBBS,Maharashtra,"Indira Gandhi Medical College & Hospital, Nagpur","Maharashtra University of Health Sciences, Nashik",Govt.,1968,200
+372,MBBS,Maharashtra,"Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha",Datta Meghe Institute of Higher Education & Research (Declared as Deemed to be University),Trust,1990,250
+373,MBBS,Maharashtra,"KJ Somaiyya Medical College & Research Centre, Mumbai","Maharashtra University of Health Sciences, Nashik",Trust,1991,100
+374,MBBS,Maharashtra,"Krishna Institute of Medical Sciences, Karad","Krishna Vishwa Vidyapeeth, Karad, Maharashtra",Trust,1984,250
+375,MBBS,Maharashtra,"Lokmanya Tilak Municipal Medical College, Sion, Mumbai","Maharashtra University of Health Sciences, Nashik",Govt.,1964,200
+376,MBBS,Maharashtra,"Maharashtra Institute of Medical Education & Research, Talegaon,Pune","Maharashtra University of Health Sciences, Nashik",Trust,1994,150
+377,MBBS,Maharashtra,"Maharashtra Institute of Medical Sciences & Research, Latur","Maharashtra University of Health Sciences, Nashik",Trust,1990,150
+378,MBBS,Maharashtra,"Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha","Maharashtra University of Health Sciences, Nashik",Trust,1969,100
+379,MBBS,Maharashtra,"Mahatma Gandhi Mission Medical College, Vashi","MGM Institute of Health Sciences (Deemed University), Navi Mumbai",Trust,2023,100
+380,MBBS,Maharashtra,"Mahatma Gandhi Missions Medical College, Aurangabad","MGM Institute of Health Sciences (Deemed University), Navi Mumbai",Trust,1989,200
+381,MBBS,Maharashtra,"Mahatma Gandhi Missions Medical College, Navi Mumbai","MGM Institute of Health Sciences (Deemed University), Navi Mumbai",Trust,1989,200
+382,MBBS,Maharashtra,"Mahatma Gandhi Missions Medical College, Nerul, Navi Mumbai",MGM Institute of Health Sciences,Private,2024,50
+383,MBBS,Maharashtra,"N. K. P. Salve Instt. of Medical Sciences and Research Centre and Lata Mangeshkar Hospital, Nagpur","Maharashtra University of Health Sciences, Nashik",Trust,1990,200
+384,MBBS,Maharashtra,"Padmashree Dr. D.Y.Patil Medical College, Navi Mumbai","Padmashree Dr. D Y Patil University (Deemed), Navi Mumbai",Trust,1989,250
+385,MBBS,Maharashtra,"Parbhani Medical College, Parbhani","Maharashtra University of Health Sciences, Nashik",Society,2023,150
+386,MBBS,Maharashtra,"Prakash Institute of Medical Sciences & Research, Sangli","Maharashtra University of Health Sciences, Nashik",Trust,2016,150
+387,MBBS,Maharashtra,"Rajashree Chatrapati Shahu Maharaj Government Medical College, Kolhapur","Maharashtra University of Health Sciences, Nashik",Govt.,2001,150
+388,MBBS,Maharashtra,"Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane","Maharashtra University of Health Sciences, Nashik",Govt.,1992,100
+389,MBBS,Maharashtra,"Rural Medical College, Loni","Pravara Institute of Medical Sciences (Deemed University), Ahmednagar",Trust,1984,200
+390,MBBS,Maharashtra,"Seth GS Medical College, and KEM Hospital, Mumbai","Maharashtra University of Health Sciences, Nashik",Govt.,1925,250
+391,MBBS,Maharashtra,"Shri Ramchandra Institute of Medical Sciences, Aurangabad","Maharashtra University of Health Sciences, Nashik",Trust,2024,50
+392,MBBS,Maharashtra,"Shri Vasant Rao Naik Govt. Medical College, Yavatmal","Maharashtra University of Health Sciences, Nashik",Govt.,1989,200
+393,MBBS,Maharashtra,"Sindhudurg Shikshan Prasarak Mandal (SSPM) Medical College & Lifetime Hospital, Padave, Sindhudurg","Maharashtra University of Health Sciences, Nashik",Trust,2020,151
+394,MBBS,Maharashtra,"SMBT Institute of Medical Sciences & Research Centre, Nandihills, Nashik","Maharashtra University of Health Sciences, Nashik",Trust,2014,150
+395,MBBS,Maharashtra,"Smt. Kashibai Navale Medical College and General Hospital,Pune","Maharashtra University of Health Sciences, Nashik",Trust,2007,150
+396,MBBS,Maharashtra,"Sri Bhausaheb Hire Government Medical College, Dhule","Maharashtra University of Health Sciences, Nashik",Govt.,1988,150
+397,MBBS,Maharashtra,"SRTR Medical College, Ambajogai","Maharashtra University of Health Sciences, Nashik",Govt.,1974,150
+398,MBBS,Maharashtra,"Symbiosis Medical College for Women, Pune","Symbiosis International (Deemed) University, pune",Society,2020,150
+399,MBBS,Maharashtra,"Terna Medical College, Navi Mumbai","Maharashtra University of Health Sciences, Nashik",Trust,1991,150
+400,MBBS,Maharashtra,"Topiwala National Medical College, Mumbai","Maharashtra University of Health Sciences, Nashik",Govt.,1964,150
+401,MBBS,Maharashtra,"Vedantaa Institute of Medical Sciences, Palghar, Maharashtra","Maharashtra University of Health Sciences, Nashik",Private,2017,150
+402,MBBS,Manipur,"Government Medical College, Churachandpur",Manipur University,Govt.,,100
+403,MBBS,Manipur,"Jawaharlal Nehru Institute of Medical Sciences,Porompet,Imphal",Manipur University,Govt.,2010,150
+404,MBBS,Manipur,"Regional Institute of Medical Sciences, Imphal",Manipur University,Govt.,1972,125
+405,MBBS,Manipur,Shija Academy of Health Sciences,Manipur University,Private,2021,150
+406,MBBS,Meghalaya,"North Eastern Indira Gandhi Regional Instt. of Health and Medical Sciences, Shillong","North Eastern Hill University, Shillong",Govt.,2008,50
+407,MBBS,Meghalaya,PA Sangma International Medical College & Hospital,"University of Science and Technology, Meghalaya",Trust,2024,150
+408,MBBS,Mizoram,"Zoram Medical College, Mizoram",Mizoram University,Govt.,2018,100
+409,MBBS,Nagaland,Nagaland Institute of Medical Sciences & Research,Nagaland University,Govt.,2023,100
+410,MBBS,Orissa,"All India Institute of Medical Sciences, Bhubaneswar","Statutory Autonomous, AIIMS(New Delhi)",Govt.,2012,125
+411,MBBS,Orissa,"Dharanidhar Medical College & Hospital (DDMCH), Keonjhar,","MSCBD University, Baripada",Govt.,2022,100
+412,MBBS,Orissa,"DRIEMS Institute of Health Sciences and Hospital, Kairapari",Utkal University,Society,2023,100
+413,MBBS,Orissa,"Government Medical College and Hospital, Jajpur","The Orissa University Of Health Sciences, Bhubaneswar",Govt.,2024,50
+414,MBBS,Orissa,"Government Medical College & Hospital (Renamed as Bhima Bhoi Medical College & Hospital), Balangir",Sambalpur University,Govt.,2018,100
+415,MBBS,Orissa,"Government Medical College & Hospital (Renamed as Fakir Mohan Medical College & Hospital), Balasore","Fakir Mohan Univeristy, Balasore",Govt.,2018,100
+416,MBBS,Orissa,"Government Medical College, Sundargarh",Sambalpur University,Govt.,2022,100
+417,MBBS,Orissa,"Hi-Tech Medical College & Hospital, Bhubaneswar",Utkal University,Trust,2005,150
+418,MBBS,Orissa,"Hi-Tech Medical College & Hospital, Rourkela",Sambalpur University,Trust,2012,100
+419,MBBS,Orissa,Institute of Medical Sciences & SUM Hospital,"Siksha O Anusandhan University,Bhubaneswar",Trust,2024,150
+420,MBBS,Orissa,"Instt. Of Medical Sciences & SUM Hospital, Bhubaneswar","Siksha O Anusandhan University,Bhubaneswar",Trust,2007,250
+421,MBBS,Orissa,"Kalinga Institute of Medical Sciences, Bhubaneswar","KIIT University (Deemed), Bhubaneswar",Trust,2007,250
+422,MBBS,Orissa,"MKCG Medical College, Berhampur",Berhampur University,Govt.,1962,250
+423,MBBS,Orissa,"Pt. Raghunath Murmu Medical College and Hospital, Baripada, Odisha","North Odisha University, Baripada, Odisha",Govt.,2017,125
+424,MBBS,Orissa,"Saheed Laxman Nayak Medical College & Hospital, Koraput",Berhampur University,Govt.,2017,125
+425,MBBS,Orissa,"Saheed Rendo Majhi Medical College & Hospital, Bhawanipatna, Kalahandi",The Kalahandi university,Govt.,2023,100
+426,MBBS,Orissa,"SCB Medical College, Cuttack",Utkal University,Govt.,1944,250
+427,MBBS,Orissa,"Sri Jagannath Medical College & Hospital, Puri",Utkal University,Govt.,2021,100
+428,MBBS,Orissa,"Veer Surendra Sai Institute of Medical Sciences and Research, Burla",Sambalpur University,Govt.,1959,200
+429,MBBS,Pondicherry,"Aarupadai Veedu Medical College, Pondicherry","Vinayaka Missions University (Deemed), Salem",Trust,1999,150
+430,MBBS,Pondicherry,"Indira Gandhi Medical College & Research Institute, Puducherry",Pondicherry University,Govt.,2010,180
+431,MBBS,Pondicherry,"Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry","Statutory Autonomous, Puducherry",Govt.,1956,200
+432,MBBS,Pondicherry,"Mahatma Gandhi Medical College & Research Institute, Pondicherry","Sri Balaji Vidyapeeth (Deemed University), Pondicherry",Trust,2002,250
+433,MBBS,Pondicherry,"Pondicherry Institute of Medical Sciences & Research, Pondicherry",Pondicherry University,Trust,2000,150
+434,MBBS,Pondicherry,"Sri Lakshmi Narayana Institute of Medical Sciences, Pondicherry","Bharath Institute of Higher Education & Research (Deemed Univ.), Chennai",Trust,2006,250
+435,MBBS,Pondicherry,"Sri Manakula Vinayagar Medical College & Hospital, Pondicherry",Pondicherry University,Trust,2006,250
+436,MBBS,Pondicherry,"Sri Venkateswaraa Medical College, Hospital & Research Centre, Pondicherry",Pondicherry University,Trust,2007,250
+437,MBBS,Pondicherry,"Vinayaka Missions Medical College, Karaikal, Pondicherry","Vinayaka Missions University (Deemed), Salem",Trust,1997,150
+438,MBBS,Punjab,"Adesh Institute of Medical Sciences & Research, Bhatinda","Adesh University, Bathinda",Trust,2006,150
+439,MBBS,Punjab,"All India Institute of Medical Sciences, Bhatinda","Statutory Autonomous, AIIMS(New Delhi)",Govt.,2019,100
+440,MBBS,Punjab,"Chintpurni Medical College, Pathankot, Gurdaspur","Baba Farid University of Health Sciences,Faridkot",Trust,2011,150
+441,MBBS,Punjab,"Christian Medical College, Ludhiana","Baba Farid University of Health Sciences,Faridkot",Trust,1953,100
+442,MBBS,Punjab,"Dayanand Medical College & Hospital, Ludhiana","Baba Farid University of Health Sciences,Faridkot",Trust,1963,100
+443,MBBS,Punjab,"Dr B R Ambedkar State Institute of Medical Sciences, SAS Nagar , Mohali","Baba Farid University of Health Sciences,Faridkot",Govt.,2021,100
+444,MBBS,Punjab,"Gian Sagar Medical College & Hospital, Patiala","Baba Farid University of Health Sciences,Faridkot",Trust,2020,150
+445,MBBS,Punjab,"Government Medical College, Amritsar","Baba Farid University of Health Sciences,Faridkot",Govt.,1943,250
+446,MBBS,Punjab,"Government Medical College, Patiala","Baba Farid University of Health Sciences,Faridkot",Govt.,1953,250
+447,MBBS,Punjab,"Guru Govind Singh Medical College, Faridkot","Baba Farid University of Health Sciences,Faridkot",Govt.,1973,150
+448,MBBS,Punjab,"Punjab Institute of Medical Sciences, Jalandhar","Baba Farid University of Health Sciences,Faridkot",Trust,2011,150
+449,MBBS,Punjab,RIMT Medical College and Hospital,RIMT University,Trust,2024,50
+450,MBBS,Punjab,"Sri Guru Ram Das Institute of Medical Sciences and Research, Sri Amritsar","Sri Guru Ram Das University of Health Sciences, Sri Amritsar",Trust,1997,150
+451,MBBS,Rajasthan,"All India Institute of Medical Sciences, Jodhpur","Statutory Autonomous, AIIMS(New Delhi)",Govt.,2012,125
+452,MBBS,Rajasthan,"American International Institute of Medical Sciences, Bedwas","Marwar Medical University, Jodhpur",Private,2016,150
+453,MBBS,Rajasthan,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand","Marwar Medical University, Jodhpur",Society,2016,150
+454,MBBS,Rajasthan,"Dr SN Medical College, Jodhpur","Marwar Medical University, Jodhpur",Govt.,1965,250
+455,MBBS,Rajasthan,Dr S S Tantia Medical College Hospital & Research Centre,Tantia University,Private,2021,150
+456,MBBS,Rajasthan,"Employees State Insurance Corporation Medical College,Alwar",Rajasthan University of Health Sciences,Govt.,2021,100
+457,MBBS,Rajasthan,"Geetanjali Medical College & Hospital,Udaipur","Geetanjali University , Udaipur",Trust,2008,250
+458,MBBS,Rajasthan,"Government Medical College, Alwar",Rajasthan University of Health Sciences,Govt.,2023,100
+459,MBBS,Rajasthan,"Government Medical College, Banswara","Marwar Medical University, Jodhpur",Govt-Society,2024,100
+460,MBBS,Rajasthan,"Government Medical College, Baran",Rajasthan University of Health Sciences,Govt.,2024,100
+461,MBBS,Rajasthan,"Government Medical College, Barmer","Marwar Medical University, Jodhpur",Govt.,2019,100
+462,MBBS,Rajasthan,"Government Medical College, Bharatpur, Rajasthan",Rajasthan University of Health Sciences,Govt.,2018,150
+463,MBBS,Rajasthan,"Government Medical College, Bhilwara, Rajasthan","Marwar Medical University, Jodhpur",Govt.,2018,150
+464,MBBS,Rajasthan,"Government Medical College, Bundi",Rajasthan University of Health Sciences,Govt.,2023,100
+465,MBBS,Rajasthan,"Government Medical College, Chittorgarh","Marwar Medical University, Jodhpur",Govt.,2022,100
+466,MBBS,Rajasthan,"Government Medical College, Churu",Rajasthan University of Health Sciences,Govt.,2018,150
+467,MBBS,Rajasthan,"Government Medical College, Dausa",Rajasthan University of Health Sciences,Govt.,2023,100
+468,MBBS,Rajasthan,"Government Medical College, Dholpur",Rajasthan University of Health Sciences,Govt.,2022,100
+469,MBBS,Rajasthan,"Government Medical College, Dungarpur","Marwar Medical University, Jodhpur",Govt.,2018,150
+470,MBBS,Rajasthan,"Government Medical College, Hanumangarh","Marwar Medical University, Jodhpur",Govt.,2023,100
+471,MBBS,Rajasthan,"Government Medical College, Jhunjhunu",Rajasthan University of Medical Sciences,Govt.,2024,100
+472,MBBS,Rajasthan,"Government Medical College, Karauli",Rajasthan University of Health Sciences,Govt.,2023,100
+473,MBBS,Rajasthan,"Government Medical College, Kota",Rajasthan University of Health Sciences,Govt.,1992,250
+474,MBBS,Rajasthan,"Government Medical College, Nagaur","Marwar Medical University, Jodhpur",Govt.,2024,100
+475,MBBS,Rajasthan,"Government Medical College, Pali, Rajasthan","Marwar Medical University, Jodhpur",Govt.,2018,150
+476,MBBS,Rajasthan,"Government Medical College, Sawai Madhopur",Rajasthan University of Health Sciences,Govt.,2024,100
+477,MBBS,Rajasthan,"Government Medical College, Sirohi","Marwar Medical University, Jodhpur",Govt.,2022,101
+478,MBBS,Rajasthan,"Government Medical College, Sri Ganganagar","Marwar Medical University, Jodhpur",Govt.,2022,100
+479,MBBS,Rajasthan,"Jaipur National University Institute of Medical Sciences and Resarch Centre, Jagatpura, Jaipur",Jaipur National University (Private Univ.),Private,2016,250
+480,MBBS,Rajasthan,"Jawaharlal Nehru Medical College, Ajmer",Rajasthan University,Govt.,1965,250
+481,MBBS,Rajasthan,"Jhalawar Medical College, Jhalawar",Rajasthan University,Govt.,2008,200
+482,MBBS,Rajasthan,JIET Medical College And Hospital,"Marwar Medical University, Jodhpur",Trust,2024,50
+483,MBBS,Rajasthan,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur","Mahatma Gandhi University of Medical Science & Technology, Jaipur",Trust,2001,250
+484,MBBS,Rajasthan,"National Institute of Medical Science & Research, Jaipur","NIMS University (Deemed), Jaipur",Trust,2004,250
+485,MBBS,Rajasthan,"Pacific Institute of Medical Sciences, Umarda, Udaipur","Sai Tirupati University, Udaipur",Society,2015,200
+486,MBBS,Rajasthan,"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur","Pacific Medical University, Udaipur",Trust,2014,150
+487,MBBS,Rajasthan,"R N T Medical College, Udaipur","Marwar Medical University, Jodhpur",Govt.,1961,250
+488,MBBS,Rajasthan,"RUHS College of Medical Sciences, Jaipur",Rajasthan University of Health Sciences,Govt.,2014,150
+489,MBBS,Rajasthan,"Sardar Patel Medical College, Bikaner","Marwar Medical University, Jodhpur",Govt.,1959,250
+490,MBBS,Rajasthan,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Rajasthan University of Health Sciences,Govt.,2020,100
+491,MBBS,Rajasthan,"SMS Medical College, Jaipur",Rajasthan University of Health Sciences,Govt.,1947,250
+492,MBBS,Rajasthan,Sudha Medical College,Rajasthan University of Health Sciences,Society,2024,100
+493,MBBS,Rajasthan,Vyas Medical College & Hospital,"Marwar Medical University, Jodhpur",Private,2024,100
