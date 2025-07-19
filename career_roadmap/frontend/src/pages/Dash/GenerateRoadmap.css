@@ -1,0 +1,71 @@
+.roadmap-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  background: #fafafa;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.roadmap-heading {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.roadmap-section {
+  margin-bottom: 2rem;
+}
+
+.roadmap-section h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.roadmap-card {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-top: 0.75rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag {
+  background-color: #e0f0ff;
+  color: #0056b3;
+  padding: 5px 10px;
+  border-radius: 12px;
+  font-size: 14px;
+}
+
+.roadmap-links li {
+  margin-top: 5px;
+}
+
+.roadmap-links a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.generate-roadmap-btn {
+  padding: 12px 20px;
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+
+.roadmap-generate-btn-wrapper {
+  text-align: center;
+}
